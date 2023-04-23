@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "엽링보곰젤리의 개발일지"
+title                    : "엽링보곰젤리"
 title_separator          : ""
 subtitle                 : 다양한 개발을 좋아하는 개발자 노트
 name                     : "Seung-Yeob-Choi"
